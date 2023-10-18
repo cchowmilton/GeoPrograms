@@ -51,7 +51,7 @@ public class B3_HalfTheRed extends World {
     }
 }
 
-
+//final 17/10
 /* 
 
 // Below is a list of the variables in plane and how to set them:
